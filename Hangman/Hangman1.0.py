@@ -1,6 +1,6 @@
 import random
 
-words = ["Water", "Fire", "Earth", "Air","Eyes","Wizard","Hut"]
+words = ["Water", "Fire", "Earth", "Air","Bee","Wizard","Hut"]
 word = random.choice(words)
 word = word.upper()
 long_word = ""
